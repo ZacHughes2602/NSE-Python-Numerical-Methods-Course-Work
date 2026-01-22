@@ -1,6 +1,6 @@
 # NSE-Python-Numerical-Methods-Course-Work
 
-![Reactor Core Visualization](reactor_core.png)
+![Reactor Core Visualization](Reactor_Core.png)
 *Figure 1: Generated TRIGA-like reactor core geometry showing fuel pins, control rods, and graphite reflectors.*
 
 This repository contains a collection of numerical methods and reactor physics simulations developed using Python. The projects focus on implementing core mathematical algorithms from scratch to solve neutron transport, linear algebra, and reactor geometry problems.
