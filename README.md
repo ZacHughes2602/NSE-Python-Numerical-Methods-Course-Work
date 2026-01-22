@@ -6,7 +6,7 @@
 
 This repository contains a collection of numerical methods and reactor physics simulations developed using Python. The projects focus on implementing core mathematical algorithms from scratch to solve neutron transport, shielding, criticality, decay, and reactor geometry problems.
 
-## Technologies
+## Specifications
 * **Language:** Python
 * **Libraries:** NumPy, Matplotlib, SciPy
 * **Concepts:** Point Reactor Kinetics, Neutron Transport, Monte Carlo Simulation, Neutron Shielding.
