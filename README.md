@@ -1,5 +1,5 @@
 # NSE-Python-Numerical-Methods-Course-Work
-
+**Oregon State University**
 ![Reactor Core Visualization](Reactor_Core.png)
 
       *Figure 1: Generated TRIGA-like reactor core geometry showing fuel pins, control rods, and graphite reflectors.*
